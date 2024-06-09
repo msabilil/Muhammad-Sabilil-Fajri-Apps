@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/home"
+        android:icon="@drawable/home_menu"/>
+    <item android:title="Daily Activity"
+        android:id="@+id/daily_activity"
+        android:icon="@drawable/daily_menu"/>
+    <item android:title="Gallery"
+        android:id="@+id/gallery"
+        android:icon="@drawable/gallery_menu"/>
+    <item android:title="Music"
+        android:id="@+id/music"
+        android:icon="@drawable/music_menu"/>
+    <item android:title="Profil"
+        android:id="@+id/profil"
+        android:icon="@drawable/profile_menu"/>
+</menu>

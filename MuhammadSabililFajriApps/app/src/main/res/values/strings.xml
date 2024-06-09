@@ -1,0 +1,17 @@
+<!--
+Tanggal Pengerjaan : 10 Juni 2024
+NIM  : 10121160
+Nama : Muhammad Sabilil Fajri
+KELAS : IF-4
+-->
+
+<resources>
+    <string name="app_name">Muhammad Sabilil Fajri Apps</string>
+    <string name="next">NEXT</string>
+    <string name="skip_intro">SKIP INTRO</string>
+    <string name="title_text">Title Text</string>
+    <string name="title_description">Title Description</string>
+    <string name="gallery">GALLERY</string>
+    <string name="about_me">Saya merupakan mahasiswa dari Universitas Komputer Indonesia jurusan Teknik Informatika.</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
